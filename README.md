@@ -29,8 +29,8 @@ Repositorio criado para apresentação dos certificados de conclusão
 [![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://pt.wikipedia.org/wiki/HTML5)
 [![VirtualCode Badge](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)](https://code.visualstudio.com/)
 
-<p>
-  <p>
+
+
 ## Links Úteis
 
 [Sintexa Basica Markdown](https://www.markdownguide.org/basic-syntax/)
