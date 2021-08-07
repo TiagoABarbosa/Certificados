@@ -13,9 +13,9 @@ Repositorio criado para apresentação dos certificados de conclusão
 Cursos / Temas:
 
 Linux
-[![Linux Badge]https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black]
-[![Mint Badge]https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white]
-[![Cent OS Badge]https://img.shields.io/badge/Cent%20OS-262577?style=for-the-badge&logo=CentOS&logoColor=white]
+[![Linux Badge](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)]
+[![Mint Badge](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)]
+[![Cent OS Badge](https://img.shields.io/badge/Cent%20OS-262577?style=for-the-badge&logo=CentOS&logoColor=white)]
 
 Banco de Dados (SQL)
 [![Oracle Badge]https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black]
