@@ -14,7 +14,7 @@ Cursos / Temas:
 
 Linux<p>
 [![Linux Badge](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/pages/download/)
-![Mint Badge](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)](https://www.linuxmint.com/download.php)
+[![Mint Badge](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)](https://www.linuxmint.com/download.php)
 [![Cent OS Badge](https://img.shields.io/badge/Cent%20OS-262577?style=for-the-badge&logo=CentOS&logoColor=white)](https://www.linuxmint.com/download.php)
 
 Banco de Dados (SQL)<p>
