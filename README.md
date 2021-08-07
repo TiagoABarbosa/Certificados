@@ -12,17 +12,17 @@ Repositorio criado para apresentação dos certificados de conclusão
 
 ## Cursos / Temas:
 
-### Linux<p> :computer:
+### Linux :computer:<p>
 [![Linux Badge](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/pages/download/)
 [![Mint Badge](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)](https://www.linuxmint.com/download.php)
 [![Cent OS Badge](https://img.shields.io/badge/Cent%20OS-262577?style=for-the-badge&logo=CentOS&logoColor=white)](https://www.linuxmint.com/download.php)
 
-### Banco de Dados (SQL)<p> :dvd:
+### Banco de Dados (SQL):dvd:<p> 
 [![Oracle Badge](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black)](https://www.oracle.com/database/)
 [![MSSQL Badge](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)](https://www.microsoft.com/pt-br/sql-server/sql-server-downloads)
 [![PostGres SQL Badge](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)  
 
-### Desenvolvimento Web<p> :hotsprings:
+### Desenvolvimento Web :hotsprings:<p>
 [![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://developer.oracle.com/br/java/)
 [![Spring Boot Badge](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)](https://spring.io/projects/spring-boot)
 [![Eclipse Badge](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)](https://www.eclipse.org/downloads/)
